@@ -17,24 +17,19 @@ The website is built using:
 - **Database**: PostgreSQL, MySQL
 - **Cloud & Deployment**: AWS (DynamoDB, S3), Vercel, Netlify
 
-## 🔗 Live Website
-You can visit my website here: [Your Website URL]
 
 ## 📁 Project Highlights
 ### 🔹 Let's Meet! - Smart Activity Planner
 An interactive planner that suggests optimal meeting points using Google Maps API.
 - **Tech Used**: PHP, SQL
-- **[GitHub Repository](#)**
 
 ### 🔹 AI Chatbot for Healthy Drinks E-commerce
 An AI-driven chatbot that enhances customer interaction and provides smart drink recommendations.
 - **Tech Used**: Python, AWS DynamoDB
-- **[GitHub Repository](#)**
 
 ### 🔹 Object Detection for Home HVAC
 Developed an IoT-powered object detection system for smart home automation using Raspberry Pi.
 - **Tech Used**: Python, OpenCV, Raspberry Pi
-- **[GitHub Repository](#)**
 
 ## 🏆 Achievements
 - **ASEAN Scholar** 🎖️
